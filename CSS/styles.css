@@ -17,8 +17,8 @@ body{
 
 h1{
     color: #66BFBF;
-    font-size: 5.625rem;
-    margin: 3.125rem auto 0 auto;
+    font-size: 562.5%;
+    margin: 10% auto 0 auto;
     font-family: 'Sacramento', cursive;
 }
 
@@ -70,7 +70,7 @@ hr{
 .topcloud{
     position: absolute;
     left: 15%;
-    top: 15%;
+    top: 5%;
 }
 
 .Me{
@@ -132,7 +132,7 @@ hr{
     margin: 6.25rem 0; 
  }
  .contact-me{
-    width: 50%;
+    width: 70%;
     margin: 10% auto;
  }
 
